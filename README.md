@@ -20,4 +20,4 @@
 
 
 
-### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
+#### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
