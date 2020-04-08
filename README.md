@@ -11,8 +11,8 @@
 
 ## Workshop Materials
 
-* Data visualization (ggplot)
+* [Data visualization (ggplot)](https://github.com/McGill-MiCM/Data-Visualization-Workshop)
 
-* [R Programming Beyond the Basics](https://github.com/McGill-MiCM/MiCM2020)
+* [R Programming Beyond the Basics](https://github.com/McGill-MiCM/MiCM)
 
 * Data Visualization in R: Essentials and Optimization
