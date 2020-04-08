@@ -18,4 +18,6 @@
 * [Data Visualization in R: Essentials and Optimization](https://github.com/McGill-MiCM/MICM_workshops)
 
 
+
+
 ### Interested in proposing a new workshop? Email us at workshop-micm@mcgill.ca.
