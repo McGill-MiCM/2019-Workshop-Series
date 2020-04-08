@@ -15,4 +15,4 @@
 
 * [R Programming Beyond the Basics](https://github.com/McGill-MiCM/MiCM)
 
-* Data Visualization in R: Essentials and Optimization
+* [Data Visualization in R: Essentials and Optimization](https://github.com/McGill-MiCM/MICM_workshops)
