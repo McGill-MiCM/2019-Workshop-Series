@@ -1,6 +1,6 @@
 # 2019 Workshop Series
 
-This repository contains all the materials of the 2020 Winter Workshop Series. The workshop content focused on exercises, practical computing and an interactive introduction to the principles of good ﬁgure design, data visualization and ﬁgure optimization.
+This repository contains all the materials of the 2019 Workshop Series. The workshop content focused on exercises, practical computing and an interactive introduction to the principles of good ﬁgure design, data visualization and ﬁgure optimization.
 
 ## Schedule
 
